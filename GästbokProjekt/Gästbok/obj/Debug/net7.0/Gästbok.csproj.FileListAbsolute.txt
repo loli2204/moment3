@@ -1,0 +1,14 @@
+/Users/louiselindberg/GästbokProjekt/Gästbok/bin/Debug/net7.0/Gästbok
+/Users/louiselindberg/GästbokProjekt/Gästbok/bin/Debug/net7.0/Gästbok.deps.json
+/Users/louiselindberg/GästbokProjekt/Gästbok/bin/Debug/net7.0/Gästbok.runtimeconfig.json
+/Users/louiselindberg/GästbokProjekt/Gästbok/bin/Debug/net7.0/Gästbok.dll
+/Users/louiselindberg/GästbokProjekt/Gästbok/bin/Debug/net7.0/Gästbok.pdb
+/Users/louiselindberg/GästbokProjekt/Gästbok/obj/Debug/net7.0/Gästbok.GeneratedMSBuildEditorConfig.editorconfig
+/Users/louiselindberg/GästbokProjekt/Gästbok/obj/Debug/net7.0/Gästbok.AssemblyInfoInputs.cache
+/Users/louiselindberg/GästbokProjekt/Gästbok/obj/Debug/net7.0/Gästbok.AssemblyInfo.cs
+/Users/louiselindberg/GästbokProjekt/Gästbok/obj/Debug/net7.0/Gästbok.csproj.CoreCompileInputs.cache
+/Users/louiselindberg/GästbokProjekt/Gästbok/obj/Debug/net7.0/Gästbok.dll
+/Users/louiselindberg/GästbokProjekt/Gästbok/obj/Debug/net7.0/refint/Gästbok.dll
+/Users/louiselindberg/GästbokProjekt/Gästbok/obj/Debug/net7.0/Gästbok.pdb
+/Users/louiselindberg/GästbokProjekt/Gästbok/obj/Debug/net7.0/Gästbok.genruntimeconfig.cache
+/Users/louiselindberg/GästbokProjekt/Gästbok/obj/Debug/net7.0/ref/Gästbok.dll
